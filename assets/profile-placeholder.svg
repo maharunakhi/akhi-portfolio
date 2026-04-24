@@ -1,0 +1,23 @@
+<svg width="720" height="860" viewBox="0 0 720 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="90" y1="60" x2="640" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0F8"/>
+      <stop offset="0.5" stop-color="#F8EDFF"/>
+      <stop offset="1" stop-color="#FFE6DD"/>
+    </linearGradient>
+    <linearGradient id="shape" x1="180" y1="200" x2="500" y2="660" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8ABC"/>
+      <stop offset="1" stop-color="#D672B5"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="860" rx="40" fill="url(#bg)"/>
+  <circle cx="360" cy="300" r="118" fill="#FFE9F3"/>
+  <path d="M261 342C261 286.772 305.772 242 361 242V242C416.228 242 461 286.772 461 342V366C461 421.228 416.228 466 361 466V466C305.772 466 261 421.228 261 366V342Z" fill="url(#shape)" fill-opacity="0.18"/>
+  <circle cx="360" cy="300" r="92" fill="#F8C7DA"/>
+  <path d="M360 418C272.768 418 202 488.768 202 576V612C202 629.673 216.327 644 234 644H486C503.673 644 518 629.673 518 612V576C518 488.768 447.232 418 360 418Z" fill="#FFFFFF" fill-opacity="0.64"/>
+  <circle cx="360" cy="320" r="84" fill="#FFF7FB"/>
+  <path d="M298 300C298 267.967 323.967 242 356 242H364C396.033 242 422 267.967 422 300V334C422 366.033 396.033 392 364 392H356C323.967 392 298 366.033 298 334V300Z" fill="url(#shape)"/>
+  <path d="M278 276C291 229 331 196 380 196C435 196 480 241 480 296C480 316 474 334 463 348C460 298 420 258 370 258H330C309 258 291 266 278 276Z" fill="#8A4C7B" fill-opacity="0.12"/>
+  <text x="360" y="734" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="68" font-weight="700" fill="#B95B8D">M A</text>
+  <text x="360" y="782" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" fill="#8F6C82">Add your own photo here later</text>
+</svg>
